@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51888" started-at="2019-08-27T09:54:51Z" finished-at="2019-08-27T09:55:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51888" started-at="2019-08-27T09:54:51Z" finished-at="2019-08-27T09:55:43Z">
+      <class name="org.cts.journeys.FirstAir">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="launchBrowser" is-config="true" duration-ms="9504" started-at="2019-08-27T15:24:51Z" finished-at="2019-08-27T15:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="SrcAndDest()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="SrcAndDest" duration-ms="4154" started-at="2019-08-27T15:25:00Z" finished-at="2019-08-27T15:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SrcAndDest -->
+        <test-method status="PASS" signature="SelectFlight()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="SelectFlight" duration-ms="20875" started-at="2019-08-27T15:25:05Z" finished-at="2019-08-27T15:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFlight -->
+        <test-method status="PASS" signature="PassengerDetail()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="PassengerDetail" duration-ms="12181" started-at="2019-08-27T15:25:26Z" finished-at="2019-08-27T15:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PassengerDetail -->
+        <test-method status="PASS" signature="PaymentDetail()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="PaymentDetail" duration-ms="4543" started-at="2019-08-27T15:25:38Z" finished-at="2019-08-27T15:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentDetail -->
+        <test-method status="PASS" signature="closingBrowser()[pri:0, instance:org.cts.journeys.FirstAir@58651fd0]" name="closingBrowser" is-config="true" duration-ms="613" started-at="2019-08-27T15:25:42Z" finished-at="2019-08-27T15:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- org.cts.journeys.FirstAir -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
